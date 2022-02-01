@@ -1,5 +1,16 @@
 # Movie Recommendation
 
+1. code: report.R
+2. rmd: report.Rmd
+3. pdf: report.pdf
+- **strongly recommend download the pdf (high resolution) instead of view it on GitHub website (low resolution)**, 
+otherwise the raster plots won't be rendered correctly!
+
+> *Note*: Each time I knit the report, 
+there might be slight unpredictability in rounding ***tuning*** outputs with a 0.001 difference.
+For example, the tune output might be 0.798 or 0.797. I wrote 0.797 in the report.
+**However, the final rmse result is the exact same.**
+
 ## A short summary
 
 The context of this machine learning project is to create an algorithm for a
